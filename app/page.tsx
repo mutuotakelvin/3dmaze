@@ -1,4 +1,3 @@
-import Image from "next/image";
 import ThreeMaze from '@/components/ThreeMaze'
 
 
